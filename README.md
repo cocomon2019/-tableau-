@@ -1,9 +1,6 @@
 # Tableau - Citi Bike Analytics
 
-[Citi-Bikes](citi-bike-station-bikes.jpg)
-
 Citi Bike Analytics [here](https://public.tableau.com/profile/joyce.tao#!/vizhome/Tableau-CitiBikeAnalytics_15831921345860/PopularityoftheStations).
-
 
 # Data Source 
 
