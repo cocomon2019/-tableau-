@@ -12,4 +12,4 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 
 # Visualizations 
 
-Use the visualizations to design a dashboard for each phenomena and a static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with xip code data overlaid on top. 
+Use the visualizations to design a dashboard for each phenomena and a static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top. 
